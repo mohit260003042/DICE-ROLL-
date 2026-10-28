@@ -104,7 +104,7 @@ function showHistory() {
 }
 
 
-                                  */
+                                  
 
 function saveHistory() {
   try {
